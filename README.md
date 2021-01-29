@@ -12,4 +12,4 @@ Este repositório é reservado para construção de códigos básicos em Pyhton 
 
 - Introdução a Linguagem de Programação Python
 
-	- [001. Nivelamento](https://github.com/feliiperiicardo/Oficina-Python/blob/main/001-pythonNivelamento.ipynb) 
+	- [001. Nivelamento](https://github.com/feliiperiicardo/oficinaPython/blob/main/001-pythonNivelamento.ipynb) 
