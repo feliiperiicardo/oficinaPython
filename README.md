@@ -16,4 +16,4 @@ Este repositório é reservado para construção de códigos básicos em Pyhton 
 	- [002. Exercícios Práticos - Condicionais](https://github.com/feliiperiicardo/oficinaPython/blob/main/001-exerciciosPraticos.ipynb)
 	- [003. Estruturas de Repetição e Exercícios Práticos](https://github.com/feliiperiicardo/oficinaPython/blob/main/003-estruturasRepeticao.ipynb)
 	- [004. Estruturas de Dados: Listas](https://github.com/feliiperiicardo/oficinaPython/blob/main/004-lista_tupla_matriz.ipynb)
-	- [005. Funçoes e Métodos](https://github.com/feliiperiicardo/oficinaPython/blob/main/005-metodos_funcoes_poo.ipynb)
+	- [005. Funções e Métodos](https://github.com/feliiperiicardo/oficinaPython/blob/main/005-metodos_funcoes_poo.ipynb)
